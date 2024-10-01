@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1727818305647,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,1,1,null,0,0,0
+1727818305649,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,1,1,null,0,0,0
+1727818306638,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,2,2,null,0,0,0
+1727818306639,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,2,2,null,0,0,0
+1727818307638,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,3,3,null,0,0,0
+1727818307639,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,3,3,null,0,0,0
+1727818306642,1228,Corporate,200,OK,Thread Group 1-2,text,true,,304026,270,3,3,https://www.simplilearn.com/corporate-training,192,0,140
+1727818306642,199,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,3,3,http://www.simplilearn.com/corporate-training,192,0,140
+1727818306844,1026,Corporate-1,200,OK,Thread Group 1-2,text,true,,303439,135,3,3,https://www.simplilearn.com/corporate-training,477,0,410
+1727818307872,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,3,3,null,0,0,0
+1727818307874,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,3,3,null,0,0,0
+1727818308639,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,4,4,null,0,0,0
+1727818308640,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,4,4,null,0,0,0
+1727818307641,1065,Corporate,200,OK,Thread Group 1-3,text,true,,304026,270,4,4,https://www.simplilearn.com/corporate-training,228,0,135
+1727818307641,228,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,4,4,http://www.simplilearn.com/corporate-training,228,0,135
+1727818307872,834,Corporate-1,200,OK,Thread Group 1-3,text,true,,303439,135,4,4,https://www.simplilearn.com/corporate-training,220,0,86
+1727818308707,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,4,4,null,0,0,0
+1727818308708,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,4,4,null,0,0,0
+1727818307876,903,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,4,4,https://www.simplilearn.com/corporate-training,15,0,0
+1727818307876,15,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,4,4,http://www.simplilearn.com/corporate-training,15,0,0
+1727818307892,887,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,4,4,https://www.simplilearn.com/corporate-training,58,0,0
+1727818308780,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,4,4,null,0,0,0
+1727818308781,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,4,4,null,0,0,0
+1727818308708,628,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,4,4,https://www.simplilearn.com/corporate-training,57,0,0
+1727818308708,57,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,4,4,http://www.simplilearn.com/corporate-training,57,0,0
+1727818308765,571,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,4,4,https://www.simplilearn.com/corporate-training,44,0,0
+1727818309337,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,4,4,null,0,0,0
+1727818309337,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,4,4,null,0,0,0
+1727818309637,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,5,5,null,0,0,0
+1727818309638,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,5,5,null,0,0,0
+1727818308782,953,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,5,5,https://www.simplilearn.com/corporate-training,53,0,0
+1727818308782,53,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,5,5,http://www.simplilearn.com/corporate-training,53,0,0
+1727818308835,900,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,5,5,https://www.simplilearn.com/corporate-training,92,0,0
+1727818309737,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,5,5,null,0,0,0
+1727818309738,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,5,5,null,0,0,0
+1727818308644,1174,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,5,5,https://www.simplilearn.com/corporate-training,134,0,100
+1727818308644,134,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,5,5,http://www.simplilearn.com/corporate-training,134,0,100
+1727818308780,1038,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,5,5,https://www.simplilearn.com/corporate-training,276,0,140
+1727818309819,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,5,5,null,0,0,0
+1727818309821,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,5,5,null,0,0,0
+1727818310641,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,6,6,null,0,0,0
+1727818310641,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,6,6,null,0,0,0
+1727818309822,1087,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,6,6,https://www.simplilearn.com/corporate-training,47,0,0
+1727818309822,47,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,6,6,http://www.simplilearn.com/corporate-training,47,0,0
+1727818309869,1040,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,6,6,https://www.simplilearn.com/corporate-training,86,0,0
+1727818310910,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,6,6,null,0,0,0
+1727818310910,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,6,6,null,0,0,0
+1727818309338,2005,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,6,6,https://www.simplilearn.com/corporate-training,225,0,0
+1727818309338,225,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,6,6,http://www.simplilearn.com/corporate-training,225,0,0
+1727818309564,1779,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,6,6,https://www.simplilearn.com/corporate-training,258,0,0
+1727818311344,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,6,6,null,0,0,0
+1727818311346,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,6,6,null,0,0,0
+1727818311635,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,7,7,null,0,0,0
+1727818311636,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,7,7,null,0,0,0
+1727818309740,2252,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,7,7,https://www.simplilearn.com/corporate-training,105,0,0
+1727818309740,105,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,7,7,http://www.simplilearn.com/corporate-training,105,0,0
+1727818309846,2146,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,7,7,https://www.simplilearn.com/corporate-training,65,0,0
+1727818311993,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,7,7,null,0,0,0
+1727818311994,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,7,7,null,0,0,0
+1727818310911,1325,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,7,7,https://www.simplilearn.com/corporate-training,231,0,0
+1727818310911,231,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,7,7,http://www.simplilearn.com/corporate-training,231,0,0
+1727818311143,1093,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,7,7,https://www.simplilearn.com/corporate-training,236,0,0
+1727818312237,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,7,7,null,0,0,0
+1727818312239,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,7,7,null,0,0,0
+1727818309639,2849,Corporate,200,OK,Thread Group 1-5,text,true,,304026,270,7,7,https://www.simplilearn.com/corporate-training,263,0,206
+1727818309639,263,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,7,7,http://www.simplilearn.com/corporate-training,263,0,206
+1727818309904,2584,Corporate-1,200,OK,Thread Group 1-5,text,true,,303439,135,7,7,https://www.simplilearn.com/corporate-training,1114,0,772
+1727818312490,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,7,7,null,0,0,0
+1727818312491,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,7,7,null,0,0,0
+1727818305732,6799,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,7,7,https://www.simplilearn.com/corporate-training,4235,0,1131
+1727818305732,4235,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,7,7,http://www.simplilearn.com/corporate-training,4235,0,1131
+1727818309968,2563,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,7,7,https://www.simplilearn.com/corporate-training,1205,0,901
+1727818312533,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,7,7,null,0,0,0
+1727818312533,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,7,7,null,0,0,0
+1727818312635,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,8,8,null,0,0,0
+1727818312636,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,8,8,null,0,0,0
+1727818312534,1084,Corporate,200,OK,Thread Group 1-1,text,true,,304026,270,8,8,https://www.simplilearn.com/corporate-training,125,0,0
+1727818312534,125,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,8,8,http://www.simplilearn.com/corporate-training,125,0,0
+1727818312660,958,Corporate-1,200,OK,Thread Group 1-1,text,true,,303439,135,8,8,https://www.simplilearn.com/corporate-training,224,0,0
+1727818313619,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,8,8,null,0,0,0
+1727818313619,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,8,8,null,0,0,0
+1727818313650,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,9,9,null,0,0,0
+1727818313650,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,9,9,null,0,0,0
+1727818312492,1266,Corporate,200,OK,Thread Group 1-5,text,true,,304026,270,9,9,https://www.simplilearn.com/corporate-training,143,0,0
+1727818312492,143,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,9,9,http://www.simplilearn.com/corporate-training,143,0,0
+1727818312636,1122,Corporate-1,200,OK,Thread Group 1-5,text,true,,303439,135,9,9,https://www.simplilearn.com/corporate-training,206,0,0
+1727818313759,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,9,9,null,0,0,0
+1727818313761,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,9,9,null,0,0,0
+1727818310642,3279,Corporate,200,OK,Thread Group 1-6,text,true,,304026,270,9,9,https://www.simplilearn.com/corporate-training,583,0,323
+1727818310642,583,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,9,9,http://www.simplilearn.com/corporate-training,583,0,323
+1727818311226,2695,Corporate-1,200,OK,Thread Group 1-6,text,true,,303439,135,9,9,https://www.simplilearn.com/corporate-training,1262,0,800
+1727818313921,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,9,9,null,0,0,0
+1727818313922,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,9,9,null,0,0,0
+1727818311347,3238,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,9,9,https://www.simplilearn.com/corporate-training,432,0,0
+1727818311347,432,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,9,9,http://www.simplilearn.com/corporate-training,432,0,0
+1727818311780,2805,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,9,9,https://www.simplilearn.com/corporate-training,335,0,0
+1727818314586,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,9,9,null,0,0,0
+1727818314586,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,9,9,null,0,0,0
+1727818314643,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818314644,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818313619,1338,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,312,0,0
+1727818313619,312,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,312,0,0
+1727818313932,1025,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,184,0,0
+1727818314959,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818314960,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818312240,2738,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,325,0,0
+1727818312240,325,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,325,0,0
+1727818312565,2413,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,165,0,0
+1727818314979,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818314980,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818311637,3372,Corporate,200,OK,Thread Group 1-7,text,true,,304033,270,10,10,https://www.simplilearn.com/corporate-training,700,0,385
+1727818311637,700,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,700,0,385
+1727818312339,2670,Corporate-1,200,OK,Thread Group 1-7,text,true,,303446,135,10,10,https://www.simplilearn.com/corporate-training,906,0,410
+1727818315010,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818315010,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818311995,3094,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,331,0,0
+1727818311995,331,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,331,0,0
+1727818312326,2763,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,253,0,0
+1727818315091,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818315093,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818313762,1463,Corporate,200,OK,Thread Group 1-5,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,211,0,0
+1727818313762,211,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,211,0,0
+1727818313974,1251,Corporate-1,200,OK,Thread Group 1-5,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,232,0,0
+1727818315226,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818315227,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818315011,2043,Corporate,200,OK,Thread Group 1-7,text,true,,304026,270,10,10,https://www.simplilearn.com/corporate-training,323,0,0
+1727818315011,323,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,323,0,0
+1727818315335,1719,Corporate-1,200,OK,Thread Group 1-7,text,true,,303439,135,10,10,https://www.simplilearn.com/corporate-training,202,0,0
+1727818317055,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818317056,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818314961,2103,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,355,0,0
+1727818314961,356,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,355,0,0
+1727818315317,1747,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,150,0,0
+1727818317065,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818317065,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818313922,3149,Corporate,200,OK,Thread Group 1-6,text,true,,304026,270,10,10,https://www.simplilearn.com/corporate-training,159,0,0
+1727818313922,159,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,159,0,0
+1727818314081,2990,Corporate-1,200,OK,Thread Group 1-6,text,true,,303439,135,10,10,https://www.simplilearn.com/corporate-training,540,0,0
+1727818317071,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,10,10,null,0,0,0
+1727818317072,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,10,10,null,0,0,0
+1727818315228,1855,Corporate,200,OK,Thread Group 1-5,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,141,0,0
+1727818315228,141,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,141,0,0
+1727818315369,1714,Corporate-1,200,OK,Thread Group 1-5,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,361,0,0
+1727818317084,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818317084,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818312637,4449,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,686,0,172
+1727818312637,686,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,686,0,172
+1727818313325,3761,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,1320,0,729
+1727818317087,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818317087,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818314980,2334,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,347,0,0
+1727818314980,347,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,347,0,0
+1727818315328,1986,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,212,0,0
+1727818317315,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818317316,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818315094,2405,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,258,0,0
+1727818315094,258,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,258,0,0
+1727818315353,2146,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,294,0,0
+1727818317500,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818317500,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818313652,3950,Corporate,200,OK,Thread Group 1-9,text,true,,304033,270,10,10,https://www.simplilearn.com/corporate-training,435,0,281
+1727818313652,435,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,435,0,281
+1727818314087,3515,Corporate-1,200,OK,Thread Group 1-9,text,true,,303446,135,10,10,https://www.simplilearn.com/corporate-training,1352,0,1150
+1727818317602,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818317603,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818314645,3187,Corporate,200,OK,Thread Group 1-10,text,true,,304026,270,10,10,https://www.simplilearn.com/corporate-training,758,0,601
+1727818314645,758,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,758,0,601
+1727818315403,2429,Corporate-1,200,OK,Thread Group 1-10,text,true,,303439,135,10,10,https://www.simplilearn.com/corporate-training,1742,0,1444
+1727818317833,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818317834,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818314587,3254,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,648,0,0
+1727818314587,648,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,648,0,0
+1727818315236,2605,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,161,0,0
+1727818317842,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,10,10,null,0,0,0
+1727818317842,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,10,10,null,0,0,0
+1727818317087,844,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,131,0,0
+1727818317087,131,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,131,0,0
+1727818317219,712,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,146,0,0
+1727818317932,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818317932,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818317085,1237,Corporate,200,OK,Thread Group 1-5,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,117,0,0
+1727818317085,117,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,117,0,0
+1727818317202,1120,Corporate-1,200,OK,Thread Group 1-5,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,156,0,0
+1727818318323,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818318323,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818317056,1505,Corporate,200,OK,Thread Group 1-7,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,126,0,0
+1727818317056,126,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,126,0,0
+1727818317183,1378,Corporate-1,200,OK,Thread Group 1-7,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,160,0,0
+1727818318561,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818318562,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818317066,1587,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,123,0,0
+1727818317066,123,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,123,0,0
+1727818317189,1464,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,169,0,0
+1727818318653,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818318653,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818317834,944,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,248,0,0
+1727818317834,248,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,248,0,0
+1727818318082,696,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,229,0,0
+1727818318779,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818318780,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818317933,943,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,204,0,0
+1727818317933,204,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,204,0,0
+1727818318137,739,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,272,0,0
+1727818318877,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818318877,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818317603,1278,Corporate,200,OK,Thread Group 1-9,text,true,,304033,270,10,10,https://www.simplilearn.com/corporate-training,309,0,0
+1727818317603,309,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,309,0,0
+1727818317913,968,Corporate-1,200,OK,Thread Group 1-9,text,true,,303446,135,10,10,https://www.simplilearn.com/corporate-training,213,0,0
+1727818317317,1564,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,168,0,0
+1727818317317,168,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,168,0,0
+1727818317485,1396,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,223,0,0
+1727818318881,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818318882,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818318882,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818318882,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818317072,1892,Corporate,200,OK,Thread Group 1-6,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,119,0,0
+1727818317072,119,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,119,0,0
+1727818317192,1772,Corporate-1,200,OK,Thread Group 1-6,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,199,0,0
+1727818318965,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,10,10,null,0,0,0
+1727818318965,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,10,10,null,0,0,0
+1727818317500,1582,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,190,0,0
+1727818317500,190,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,190,0,0
+1727818317690,1392,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,308,0,0
+1727818319083,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818319084,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818318781,875,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,137,0,0
+1727818318781,137,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,137,0,0
+1727818318918,738,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,92,0,0
+1727818319657,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818319657,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818318878,827,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,85,0,0
+1727818318878,85,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,85,0,0
+1727818318963,742,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,122,0,0
+1727818319705,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818319706,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818318882,1020,Corporate,200,OK,Thread Group 1-9,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,95,0,0
+1727818318882,95,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,95,0,0
+1727818318977,925,Corporate-1,200,OK,Thread Group 1-9,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,208,0,0
+1727818319903,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818319903,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818317843,2243,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,256,0,0
+1727818317843,256,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,256,0,0
+1727818318099,1987,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,311,0,0
+1727818320097,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,10,10,null,0,0,0
+1727818320097,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,10,10,null,0,0,0
+1727818319706,956,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,172,0,0
+1727818319706,172,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,172,0,0
+1727818319878,784,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,286,0,0
+1727818320663,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818320663,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818319657,1064,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,201,0,0
+1727818319657,201,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,201,0,0
+1727818319858,863,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,220,0,0
+1727818320722,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818320722,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818318324,2451,Corporate,200,OK,Thread Group 1-5,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,355,0,0
+1727818318324,355,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,355,0,0
+1727818318679,2096,Corporate-1,200,OK,Thread Group 1-5,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,214,0,0
+1727818320776,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818320776,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818318883,1963,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,95,0,0
+1727818318883,95,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,95,0,0
+1727818318978,1868,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,412,0,0
+1727818320847,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818320848,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818318562,2334,Corporate,200,OK,Thread Group 1-7,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,283,0,0
+1727818318562,283,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,283,0,0
+1727818318846,2050,Corporate-1,200,OK,Thread Group 1-7,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,135,0,0
+1727818320896,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818320897,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818319904,1063,Corporate,200,OK,Thread Group 1-9,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,392,0,0
+1727818319904,393,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,392,0,0
+1727818320297,670,Corporate-1,200,OK,Thread Group 1-9,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,422,0,0
+1727818320968,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818320969,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818318654,2317,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,223,0,0
+1727818318654,223,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,223,0,0
+1727818318877,2094,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,127,0,0
+1727818320971,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818320972,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818319085,2136,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,625,0,0
+1727818319085,625,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,625,0,0
+1727818319710,1511,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,196,0,0
+1727818321222,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818321222,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818320664,567,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,231,0,0
+1727818320664,231,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,231,0,0
+1727818320896,335,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,113,0,0
+1727818321232,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818321232,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818320723,1028,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,193,0,0
+1727818320723,193,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,193,0,0
+1727818320917,834,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,148,0,0
+1727818321752,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818321752,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818320970,813,Corporate,200,OK,Thread Group 1-9,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,162,0,0
+1727818320970,162,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,162,0,0
+1727818321132,651,Corporate-1,200,OK,Thread Group 1-9,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,206,0,0
+1727818321784,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818321784,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818320848,1232,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,134,0,0
+1727818320848,135,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,134,0,0
+1727818320983,1097,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,201,0,0
+1727818322081,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818322082,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818321233,865,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,345,0,0
+1727818321233,345,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,345,0,0
+1727818321579,519,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,290,0,0
+1727818322099,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818322100,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818318965,3170,Corporate,200,OK,Thread Group 1-6,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,109,0,0
+1727818318965,109,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,109,0,0
+1727818319075,3060,Corporate-1,200,OK,Thread Group 1-6,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,829,0,0
+1727818322136,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,10,10,null,0,0,0
+1727818322137,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,10,10,null,0,0,0
+1727818320098,2160,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,539,0,0
+1727818320098,539,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,539,0,0
+1727818320638,1620,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,267,0,0
+1727818322258,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,10,10,null,0,0,0
+1727818322259,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,10,10,null,0,0,0
+1727818321785,860,Corporate,200,OK,Thread Group 1-9,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,365,0,0
+1727818321785,366,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,365,0,0
+1727818322151,494,Corporate-1,200,OK,Thread Group 1-9,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,136,0,0
+1727818322645,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818322646,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818322100,592,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,132,0,0
+1727818322100,132,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,132,0,0
+1727818322233,459,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,187,0,0
+1727818322693,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818322693,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818320897,1876,Corporate,200,OK,Thread Group 1-7,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,106,0,0
+1727818320897,106,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,106,0,0
+1727818321003,1770,Corporate-1,200,OK,Thread Group 1-7,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,250,0,0
+1727818322774,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818322775,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,10,10,null,0,0,0
+1727818321753,1236,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,383,0,0
+1727818321753,383,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,383,0,0
+1727818322137,852,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,158,0,0
+1727818322990,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818322991,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,10,10,null,0,0,0
+1727818320777,2218,Corporate,200,OK,Thread Group 1-5,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,186,0,0
+1727818320777,186,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,186,0,0
+1727818320963,2032,Corporate-1,200,OK,Thread Group 1-5,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,251,0,0
+1727818322996,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818322997,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,10,10,null,0,0,0
+1727818322083,1045,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,140,0,0
+1727818322083,140,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,140,0,0
+1727818322224,904,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,253,0,0
+1727818323129,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818323130,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,10,10,null,0,0,0
+1727818322694,795,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,251,0,0
+1727818322694,251,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,251,0,0
+1727818322946,543,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,187,0,0
+1727818323490,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818323491,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,875,0,10,10,null,0,0,0
+1727818321223,2276,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,359,0,0
+1727818321223,359,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,359,0,0
+1727818321582,1917,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,436,0,0
+1727818323500,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818323500,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,10,10,null,0,0,0
+1727818320973,2556,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,155,0,0
+1727818320973,155,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,155,0,0
+1727818321128,2401,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,283,0,0
+1727818323529,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818323530,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,10,10,null,0,0,0
+1727818322647,893,Corporate,200,OK,Thread Group 1-9,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,271,0,0
+1727818322647,272,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,271,0,0
+1727818322919,621,Corporate-1,200,OK,Thread Group 1-9,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,167,0,0
+1727818323541,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818323542,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,10,10,null,0,0,0
+1727818323492,528,Corporate,200,OK,Thread Group 1-8,text,true,,304025,270,10,10,https://www.simplilearn.com/corporate-training,149,0,0
+1727818323492,149,Corporate-0,301,Moved Permanently,Thread Group 1-8,text,true,,587,135,10,10,http://www.simplilearn.com/corporate-training,149,0,0
+1727818323641,379,Corporate-1,200,OK,Thread Group 1-8,text,true,,303438,135,10,10,https://www.simplilearn.com/corporate-training,134,0,0
+1727818322992,1423,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,9,9,https://www.simplilearn.com/corporate-training,397,0,0
+1727818322992,397,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,9,9,http://www.simplilearn.com/corporate-training,397,0,0
+1727818323390,1025,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,9,9,https://www.simplilearn.com/corporate-training,210,0,0
+1727818324417,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,9,9,null,0,0,0
+1727818324418,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,9,9,null,0,0,0
+1727818322259,2160,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,9,9,https://www.simplilearn.com/corporate-training,275,0,0
+1727818322259,276,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,9,9,http://www.simplilearn.com/corporate-training,275,0,0
+1727818322535,1884,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,9,9,https://www.simplilearn.com/corporate-training,361,0,0
+1727818324420,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,9,9,null,0,0,0
+1727818324420,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,9,9,null,0,0,0
+1727818323543,891,Corporate,200,OK,Thread Group 1-9,text,true,,304025,270,9,9,https://www.simplilearn.com/corporate-training,146,0,0
+1727818323543,146,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,9,9,http://www.simplilearn.com/corporate-training,146,0,0
+1727818323689,745,Corporate-1,200,OK,Thread Group 1-9,text,true,,303438,135,9,9,https://www.simplilearn.com/corporate-training,236,0,0
+1727818324435,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,9,9,null,0,0,0
+1727818324435,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,9,9,null,0,0,0
+1727818323130,1311,Corporate,200,OK,Thread Group 1-4,text,true,,304025,270,9,9,https://www.simplilearn.com/corporate-training,428,0,0
+1727818323130,428,Corporate-0,301,Moved Permanently,Thread Group 1-4,text,true,,587,135,9,9,http://www.simplilearn.com/corporate-training,428,0,0
+1727818323558,883,Corporate-1,200,OK,Thread Group 1-4,text,true,,303438,135,9,9,https://www.simplilearn.com/corporate-training,165,0,0
+1727818324442,429,Corporate,200,OK,Thread Group 1-9,text,true,,304025,270,8,8,https://www.simplilearn.com/corporate-training,14,0,0
+1727818324442,14,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,8,8,http://www.simplilearn.com/corporate-training,14,0,0
+1727818324456,415,Corporate-1,200,OK,Thread Group 1-9,text,true,,303438,135,8,8,https://www.simplilearn.com/corporate-training,83,0,0
+1727818324872,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,8,8,null,0,0,0
+1727818324873,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,875,0,8,8,null,0,0,0
+1727818322138,2798,Corporate,200,OK,Thread Group 1-6,text,true,,304025,270,8,8,https://www.simplilearn.com/corporate-training,127,0,0
+1727818322138,127,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,8,8,http://www.simplilearn.com/corporate-training,127,0,0
+1727818322266,2670,Corporate-1,200,OK,Thread Group 1-6,text,true,,303438,135,8,8,https://www.simplilearn.com/corporate-training,443,0,0
+1727818324936,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,8,8,null,0,0,0
+1727818324937,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,8,8,null,0,0,0
+1727818324418,704,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,8,8,https://www.simplilearn.com/corporate-training,39,0,0
+1727818324418,39,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,8,8,http://www.simplilearn.com/corporate-training,39,0,0
+1727818324457,665,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,8,8,https://www.simplilearn.com/corporate-training,130,0,0
+1727818325123,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,8,8,null,0,0,0
+1727818325124,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,8,8,null,0,0,0
+1727818322775,2356,Corporate,200,OK,Thread Group 1-7,text,true,,304025,270,8,8,https://www.simplilearn.com/corporate-training,235,0,0
+1727818322775,235,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,8,8,http://www.simplilearn.com/corporate-training,235,0,0
+1727818323010,2121,Corporate-1,200,OK,Thread Group 1-7,text,true,,303438,135,8,8,https://www.simplilearn.com/corporate-training,516,0,0
+1727818325132,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,8,8,null,0,0,0
+1727818325132,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,8,8,null,0,0,0
+1727818324873,502,Corporate,200,OK,Thread Group 1-9,text,true,,304025,270,8,8,https://www.simplilearn.com/corporate-training,104,0,0
+1727818324873,104,Corporate-0,301,Moved Permanently,Thread Group 1-9,text,true,,587,135,8,8,http://www.simplilearn.com/corporate-training,104,0,0
+1727818324977,398,Corporate-1,200,OK,Thread Group 1-9,text,true,,303438,135,8,8,https://www.simplilearn.com/corporate-training,98,0,0
+1727818323501,1877,Corporate,200,OK,Thread Group 1-2,text,true,,304025,270,7,7,https://www.simplilearn.com/corporate-training,143,0,0
+1727818323501,143,Corporate-0,301,Moved Permanently,Thread Group 1-2,text,true,,587,135,7,7,http://www.simplilearn.com/corporate-training,143,0,0
+1727818323645,1733,Corporate-1,200,OK,Thread Group 1-2,text,true,,303438,135,7,7,https://www.simplilearn.com/corporate-training,209,0,0
+1727818322998,2407,Corporate,200,OK,Thread Group 1-5,text,true,,304025,270,6,6,https://www.simplilearn.com/corporate-training,414,0,0
+1727818322998,414,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,6,6,http://www.simplilearn.com/corporate-training,414,0,0
+1727818323413,1992,Corporate-1,200,OK,Thread Group 1-5,text,true,,303438,135,6,6,https://www.simplilearn.com/corporate-training,224,0,0
+1727818325406,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,6,6,null,0,0,0
+1727818325406,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,6,6,null,0,0,0
+1727818324421,1139,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,6,6,https://www.simplilearn.com/corporate-training,38,0,0
+1727818324421,38,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,6,6,http://www.simplilearn.com/corporate-training,38,0,0
+1727818324459,1101,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,6,6,https://www.simplilearn.com/corporate-training,292,0,0
+1727818325561,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,6,6,null,0,0,0
+1727818325562,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,6,6,null,0,0,0
+1727818325124,658,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,6,6,https://www.simplilearn.com/corporate-training,93,0,0
+1727818325124,93,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,6,6,http://www.simplilearn.com/corporate-training,93,0,0
+1727818325217,565,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,6,6,https://www.simplilearn.com/corporate-training,158,0,0
+1727818325783,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,6,6,null,0,0,0
+1727818325783,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,875,0,6,6,null,0,0,0
+1727818323531,2392,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,6,6,https://www.simplilearn.com/corporate-training,137,0,0
+1727818323531,138,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,6,6,http://www.simplilearn.com/corporate-training,137,0,0
+1727818323669,2254,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,6,6,https://www.simplilearn.com/corporate-training,462,0,0
+1727818325923,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,6,6,null,0,0,0
+1727818325924,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,6,6,null,0,0,0
+1727818325784,517,Corporate,200,OK,Thread Group 1-10,text,true,,304025,270,6,6,https://www.simplilearn.com/corporate-training,18,0,0
+1727818325784,18,Corporate-0,301,Moved Permanently,Thread Group 1-10,text,true,,587,135,6,6,http://www.simplilearn.com/corporate-training,18,0,0
+1727818325803,498,Corporate-1,200,OK,Thread Group 1-10,text,true,,303438,135,6,6,https://www.simplilearn.com/corporate-training,38,0,0
+1727818325133,1231,Corporate,200,OK,Thread Group 1-7,text,true,,304025,270,5,5,https://www.simplilearn.com/corporate-training,101,0,0
+1727818325133,101,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,5,5,http://www.simplilearn.com/corporate-training,101,0,0
+1727818325235,1129,Corporate-1,200,OK,Thread Group 1-7,text,true,,303438,135,5,5,https://www.simplilearn.com/corporate-training,174,0,0
+1727818326364,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,5,5,null,0,0,0
+1727818326365,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,5,5,null,0,0,0
+1727818324937,1446,Corporate,200,OK,Thread Group 1-6,text,true,,304025,270,5,5,https://www.simplilearn.com/corporate-training,92,0,0
+1727818324937,92,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,5,5,http://www.simplilearn.com/corporate-training,92,0,0
+1727818325029,1354,Corporate-1,200,OK,Thread Group 1-6,text,true,,303438,135,5,5,https://www.simplilearn.com/corporate-training,156,0,0
+1727818326384,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,5,5,null,0,0,0
+1727818326384,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,5,5,null,0,0,0
+1727818325563,862,Corporate,200,OK,Thread Group 1-3,text,true,,304025,270,5,5,https://www.simplilearn.com/corporate-training,20,0,0
+1727818325563,20,Corporate-0,301,Moved Permanently,Thread Group 1-3,text,true,,587,135,5,5,http://www.simplilearn.com/corporate-training,20,0,0
+1727818325584,841,Corporate-1,200,OK,Thread Group 1-3,text,true,,303438,135,5,5,https://www.simplilearn.com/corporate-training,58,0,0
+1727818325406,1117,Corporate,200,OK,Thread Group 1-5,text,true,,304025,270,4,4,https://www.simplilearn.com/corporate-training,44,0,0
+1727818325406,44,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,4,4,http://www.simplilearn.com/corporate-training,44,0,0
+1727818325450,1073,Corporate-1,200,OK,Thread Group 1-5,text,true,,303438,135,4,4,https://www.simplilearn.com/corporate-training,70,0,0
+1727818326524,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,4,4,null,0,0,0
+1727818326524,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,4,4,null,0,0,0
+1727818325924,1002,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,4,4,https://www.simplilearn.com/corporate-training,23,0,0
+1727818325924,23,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,4,4,http://www.simplilearn.com/corporate-training,23,0,0
+1727818325948,978,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,4,4,https://www.simplilearn.com/corporate-training,134,0,0
+1727818326927,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,4,4,null,0,0,0
+1727818326927,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,4,4,null,0,0,0
+1727818326365,697,Corporate,200,OK,Thread Group 1-7,text,true,,304025,270,4,4,https://www.simplilearn.com/corporate-training,33,0,0
+1727818326365,33,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,4,4,http://www.simplilearn.com/corporate-training,33,0,0
+1727818326398,664,Corporate-1,200,OK,Thread Group 1-7,text,true,,303438,135,4,4,https://www.simplilearn.com/corporate-training,52,0,0
+1727818327063,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,4,4,null,0,0,0
+1727818327063,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,4,4,null,0,0,0
+1727818326525,682,Corporate,200,OK,Thread Group 1-5,text,true,,304025,270,4,4,https://www.simplilearn.com/corporate-training,20,0,0
+1727818326525,20,Corporate-0,301,Moved Permanently,Thread Group 1-5,text,true,,587,135,4,4,http://www.simplilearn.com/corporate-training,20,0,0
+1727818326546,661,Corporate-1,200,OK,Thread Group 1-5,text,true,,303438,135,4,4,https://www.simplilearn.com/corporate-training,63,0,0
+1727818326385,929,Corporate,200,OK,Thread Group 1-6,text,true,,304025,270,3,3,https://www.simplilearn.com/corporate-training,19,0,0
+1727818326385,19,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,3,3,http://www.simplilearn.com/corporate-training,19,0,0
+1727818326404,910,Corporate-1,200,OK,Thread Group 1-6,text,true,,303438,135,3,3,https://www.simplilearn.com/corporate-training,62,0,0
+1727818327315,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,3,3,null,0,0,0
+1727818327316,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,3,3,null,0,0,0
+1727818326927,713,Corporate,200,OK,Thread Group 1-1,text,true,,304025,270,3,3,https://www.simplilearn.com/corporate-training,13,0,0
+1727818326927,13,Corporate-0,301,Moved Permanently,Thread Group 1-1,text,true,,587,135,3,3,http://www.simplilearn.com/corporate-training,13,0,0
+1727818326941,699,Corporate-1,200,OK,Thread Group 1-1,text,true,,303438,135,3,3,https://www.simplilearn.com/corporate-training,49,0,0
+1727818327064,650,Corporate,200,OK,Thread Group 1-7,text,true,,304025,270,2,2,https://www.simplilearn.com/corporate-training,23,0,0
+1727818327064,23,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,2,2,http://www.simplilearn.com/corporate-training,23,0,0
+1727818327088,626,Corporate-1,200,OK,Thread Group 1-7,text,true,,303438,135,2,2,https://www.simplilearn.com/corporate-training,42,0,0
+1727818327715,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,2,2,null,0,0,0
+1727818327715,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,875,0,2,2,null,0,0,0
+1727818327715,372,Corporate,200,OK,Thread Group 1-7,text,true,,304025,270,2,2,https://www.simplilearn.com/corporate-training,13,0,0
+1727818327715,14,Corporate-0,301,Moved Permanently,Thread Group 1-7,text,true,,587,135,2,2,http://www.simplilearn.com/corporate-training,13,0,0
+1727818327729,358,Corporate-1,200,OK,Thread Group 1-7,text,true,,303438,135,2,2,https://www.simplilearn.com/corporate-training,36,0,0
+1727818327317,799,Corporate,200,OK,Thread Group 1-6,text,true,,304025,270,1,1,https://www.simplilearn.com/corporate-training,18,0,0
+1727818327317,18,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,1,1,http://www.simplilearn.com/corporate-training,18,0,0
+1727818327335,781,Corporate-1,200,OK,Thread Group 1-6,text,true,,303438,135,1,1,https://www.simplilearn.com/corporate-training,144,0,0
+1727818328117,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,1,1,null,0,0,0
+1727818328118,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,1,1,null,0,0,0
+1727818328118,492,Corporate,200,OK,Thread Group 1-6,text,true,,304025,270,1,1,https://www.simplilearn.com/corporate-training,18,0,0
+1727818328118,18,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,1,1,http://www.simplilearn.com/corporate-training,18,0,0
+1727818328137,473,Corporate-1,200,OK,Thread Group 1-6,text,true,,303438,135,1,1,https://www.simplilearn.com/corporate-training,35,0,0
+1727818328611,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,1,1,null,0,0,0
+1727818328611,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,875,0,1,1,null,0,0,0
+1727818328612,455,Corporate,200,OK,Thread Group 1-6,text,true,,304025,270,1,1,https://www.simplilearn.com/corporate-training,16,0,0
+1727818328612,16,Corporate-0,301,Moved Permanently,Thread Group 1-6,text,true,,587,135,1,1,http://www.simplilearn.com/corporate-training,16,0,0
+1727818328628,439,Corporate-1,200,OK,Thread Group 1-6,text,true,,303438,135,1,1,https://www.simplilearn.com/corporate-training,33,0,0
